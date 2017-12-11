@@ -1,1 +1,13 @@
-﻿ProjectAImport 1Import 2Import 3Import 4Class ONE: MethodA ( 1 + 1)Class TWO: MethodB ( 1 * 1)Class THREE: MethodA ( 1 / 1)
+﻿ProjectA
+
+Import 1
+Import 2
+Import 3
+Import 4
+
+Class ONE: MethodA ( 1 + 1)
+
+Class TWO: MethodB ( 1 * 1)
+
+Class THREE: MethodA ( 1 - 1) //A diff correction
+
